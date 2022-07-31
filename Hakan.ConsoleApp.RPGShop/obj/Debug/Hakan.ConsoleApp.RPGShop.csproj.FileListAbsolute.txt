@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\obj\Debug\Hakan.ConsoleApp.RPGShop.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\obj\Debug\Hakan.ConsoleApp.RPGShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\obj\Debug\Hakan.ConsoleApp.RPGShop.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\bin\Debug\Hakan.ConsoleApp.RPGShop.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\bin\Debug\Hakan.ConsoleApp.RPGShop.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\bin\Debug\Hakan.ConsoleApp.RPGShop.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\obj\Debug\Hakan.ConsoleApp.RPGShop.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.RPGShop\obj\Debug\Hakan.ConsoleApp.RPGShop.pdb

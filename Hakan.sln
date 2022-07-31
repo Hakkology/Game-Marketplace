@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.RPGShop(1.Deneme)", "Hakan.ConsoleApp.RPGShop\Hakan.ConsoleApp.RPGShop(1.Deneme).csproj", "{26F98D3D-30A6-48C8-8DA2-A57389F7F5E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ConsoleApp.TeknolojiApp(2.Deneme)", "Hakan.ConsoleApp.TeknolojiApp\Hakan.ConsoleApp.TeknolojiApp(2.Deneme).csproj", "{0B4E299F-A938-4040-A16B-5E3ACE9CD782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F98D3D-30A6-48C8-8DA2-A57389F7F5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F98D3D-30A6-48C8-8DA2-A57389F7F5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F98D3D-30A6-48C8-8DA2-A57389F7F5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F98D3D-30A6-48C8-8DA2-A57389F7F5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4E299F-A938-4040-A16B-5E3ACE9CD782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4E299F-A938-4040-A16B-5E3ACE9CD782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4E299F-A938-4040-A16B-5E3ACE9CD782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4E299F-A938-4040-A16B-5E3ACE9CD782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A45435-8B30-478B-9F30-355C5E28B978}
+	EndGlobalSection
+EndGlobal

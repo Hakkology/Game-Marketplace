@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\bin\Debug\Hakan.ConsoleApp.TeknolojiApp.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\bin\Debug\Hakan.ConsoleApp.TeknolojiApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\bin\Debug\Hakan.ConsoleApp.TeknolojiApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\obj\Debug\Hakan.ConsoleApp.TeknolojiApp.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\obj\Debug\Hakan.ConsoleApp.TeknolojiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\obj\Debug\Hakan.ConsoleApp.TeknolojiApp.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\obj\Debug\Hakan.ConsoleApp.TeknolojiApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.TeknolojiApp\obj\Debug\Hakan.ConsoleApp.TeknolojiApp.pdb

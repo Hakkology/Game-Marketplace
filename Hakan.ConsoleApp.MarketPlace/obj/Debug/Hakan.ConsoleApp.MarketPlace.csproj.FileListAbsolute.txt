@@ -1,0 +1,3 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.MarketPlace\obj\Debug\Hakan.ConsoleApp.MarketPlace.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.MarketPlace\obj\Debug\Hakan.ConsoleApp.MarketPlace.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW5\Hakan\Hakan.ConsoleApp.MarketPlace\obj\Debug\Hakan.ConsoleApp.MarketPlace.csproj.CoreCompileInputs.cache
